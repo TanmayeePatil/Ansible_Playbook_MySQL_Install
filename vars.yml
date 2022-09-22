@@ -1,0 +1,4 @@
+ansible_python_interpreter: /usr/bin/python3
+mysql_root_password: password
+mysql_user: tanmayee
+mysql_user_password: num@123
